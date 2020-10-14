@@ -2,6 +2,8 @@
 
 # The Apalache Sandox
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/informalsystems/apalache-sandbox)
+
 **NOTE:** In POC stage.
 
 [Apalache](https://github.com/informalsystems/apalache) is a symbolic model

@@ -1,4 +1,4 @@
-image: apalache/mc:latest
+image: apalache/mc:unstable
 
 vscode:
   extensions:

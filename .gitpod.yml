@@ -2,7 +2,7 @@ image: apalache/mc:latest
 
 vscode:
   extensions:
-    - alygin.vscode-tlaplus@1.5.1
+    - alygin.vscode-tlaplus@1.5.1:AvbZcOptdIVBjyuzWZeJUg==
 
 tasks:
   # - init: git config --global alias.slog 'log --pretty=oneline --abbrev-commit'

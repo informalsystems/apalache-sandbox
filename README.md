@@ -11,7 +11,7 @@ checker for TLA+
 
 ## Getting Started
 
-Visit the [HourClock.tla spec](./HourClock.tla) file from the side var to your
+Visit the [HourClock.tla spec](./HourClock.tla) file from the side bar to your
 left.
 
 In the terminal below, run the model checker on the file with
